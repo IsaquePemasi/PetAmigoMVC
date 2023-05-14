@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\379691.jpg",
+      "PackagePath": "staticwebassets\\images\\379691.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\380977.jpg",
+      "PackagePath": "staticwebassets\\images\\380977.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\383280.jpg",
+      "PackagePath": "staticwebassets\\images\\383280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\59930.jpg",
+      "PackagePath": "staticwebassets\\images\\59930.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
