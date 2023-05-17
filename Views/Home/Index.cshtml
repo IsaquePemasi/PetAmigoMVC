@@ -3,12 +3,13 @@
 }
 
 <main>
+    @*carrousel*@
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-
         </ol>
+        @*primeiro slide, do carrousel*@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img class="d-block w-100" src="~/images/379691.jpg" alt="Primeiro Slide">
@@ -21,6 +22,7 @@
                     </p>
                 </div>
             </div>
+            @*segundo slide, do carrousel*@
             <div class="carousel-item">
                 <img class="d-block w-100" src="~/images/383280.jpg" alt="Segundo Slide">
                 <div class="carousel-caption d-none d-md-block">
@@ -32,6 +34,7 @@
                     </p>
                 </div>
             </div>
+            @*botões do carrousel*@
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Anterior</span>
@@ -41,10 +44,6 @@
                 <span class="sr-only">Próximo</span>
             </a>
         </div>
+        @*divisor de linhas*@
         <hr class="featurette-divider">
 </main>
-<!-- JavaScript (Opcional) -->
-<!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
