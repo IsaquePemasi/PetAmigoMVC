@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetAmigoMVC
 build_property.RootNamespace = PetAmigoMVC
-build_property.ProjectDir = C:\Users\Isaque\Desktop\PetAmigoMVC\
+build_property.ProjectDir = c:\Users\Isaque\Desktop\PetAmigoMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Isaque\Desktop\PetAmigoMVC
+build_property.MSBuildProjectDirectory = c:\Users\Isaque\Desktop\PetAmigoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Adocao.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Adocao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG9jYW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Doacao.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Doacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb2FjYW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Index.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Perdido.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/Home/Perdido.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJkaWRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/Shared/Error.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/_ViewImports.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/_ViewStart.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Isaque/Desktop/PetAmigoMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/Isaque/Desktop/PetAmigoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gsywuhx56i
