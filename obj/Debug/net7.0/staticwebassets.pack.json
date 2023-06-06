@@ -13,6 +13,46 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\349083682_1611085656054810_1281210572621562986_n.jpg",
+      "PackagePath": "staticwebassets\\images\\349083682_1611085656054810_1281210572621562986_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\349146729_6378626255530043_6810779976894568852_n.jpg",
+      "PackagePath": "staticwebassets\\images\\349146729_6378626255530043_6810779976894568852_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\349756016_162403783295905_3712207384504384382_n.jpg",
+      "PackagePath": "staticwebassets\\images\\349756016_162403783295905_3712207384504384382_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\349917378_243301835056177_8457899056121018857_n.jpg",
+      "PackagePath": "staticwebassets\\images\\349917378_243301835056177_8457899056121018857_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\350141156_1360571161167653_1002568895089828365_n.jpg",
+      "PackagePath": "staticwebassets\\images\\350141156_1360571161167653_1002568895089828365_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\350511314_248549744490297_4752898366548204959_n.jpg",
+      "PackagePath": "staticwebassets\\images\\350511314_248549744490297_4752898366548204959_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\350525101_1346452842586433_5899519096855312178_n.jpg",
+      "PackagePath": "staticwebassets\\images\\350525101_1346452842586433_5899519096855312178_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\350772182_1469501203790100_6390765218528025040_n.jpg",
+      "PackagePath": "staticwebassets\\images\\350772182_1469501203790100_6390765218528025040_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\351120405_1406861346745891_387280139438524829_n.jpg",
+      "PackagePath": "staticwebassets\\images\\351120405_1406861346745891_387280139438524829_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\351498093_219148440882917_6264918925996462657_n.jpg",
+      "PackagePath": "staticwebassets\\images\\351498093_219148440882917_6264918925996462657_n.jpg"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\379691.jpg",
       "PackagePath": "staticwebassets\\images\\379691.jpg"
     },
@@ -43,6 +83,30 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\labradoodle-g97f07522a_640.jpg",
       "PackagePath": "staticwebassets\\images\\labradoodle-g97f07522a_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\proxy-image (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\proxy-image (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\proxy-image (3).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (4).jpeg",
+      "PackagePath": "staticwebassets\\images\\proxy-image (4).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image.jpeg",
+      "PackagePath": "staticwebassets\\images\\proxy-image.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image.webp",
+      "PackagePath": "staticwebassets\\images\\proxy-image.webp"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\js\\site.js",
