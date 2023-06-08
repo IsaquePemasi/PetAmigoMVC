@@ -1,7 +1,6 @@
 ﻿@{
     ViewData["Title"] = "Página inicial";
 }
-
 <main>
     <header>
         @*carrousel*@
@@ -41,7 +40,6 @@
                 </div>
                 @*terceiro slide, do carrousel*@
                 <div class="carousel-item">
-
                     <img class="d-block w-100" src="~/images/260845.jpg" alt="Terceiro Slide">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><strong style=" color: black; background-color: white;">🐶 Achados e Perdidos 🐱</strong></h5>
@@ -67,33 +65,47 @@
     </header>
         <body cz-shortcut-listen="true">
             <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-                <div class="col-md-5 p-lg-5 mx-auto my-5">
-                    <h1 class="display-4 font-weight-normal">Título legal</h1>
-                    <p class="lead font-weight-normal">E uma descrição engraçadinha, para continuar. Alavanque seus esforços em marketing com esse exemplo, baseado nas páginas de marketing da Apple.</p>
-                    <a class="btn btn-outline-secondary" href="#">Em breve</a>
-                </div>
+            @*Título 01*@
+                    <h1 class="display-4 font-weight-normal">Adoção</h1>
+                    @*descriçao 01*@
+                <p class="lead font-weight-normal">
+                    Ao adotar um cão ou um gato, estamos oferecendo uma segunda chance a um ser vivo que muitas vezes foi negligenciado, maltratado ou abandonado. Esses animais merecem um lar amoroso, onde possam receber cuidados adequados, alimentação, abrigo e carinho. A adoção permite que eles sejam integrados a uma família, recebam afeto e se tornem parte ativa de uma comunidade.
+                    Além do aspecto emocional, a adoção de animais traz benefícios práticos. Ao optarmos pela adoção em vez da compra, estamos ajudando a reduzir o número de animais abandonados nas ruas e em abrigos. A superpopulação animal é um problema sério, que resulta em sofrimento e morte para muitos animais. Ao adotar, estamos dando uma chance a um animal que, de outra forma, poderia ser sacrificado ou passar toda a sua vida em um ambiente institucional.
+                </p>
+                @*botão 01*@
+                    <a class="btn btn-outline-secondary" href="#">Adote um Pet</a>
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>
         @*divisor de linhas*@
         <hr class="featurette-divider">
             <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light" style="background-image:">
-                <div class="col-md-5 p-lg-5 mx-auto my-5">
-                    <h1 class="display-4 font-weight-normal">Título legal</h1>
-                    <p class="lead font-weight-normal">E uma descrição engraçadinha, para continuar. Alavanque seus esforços em marketing com esse exemplo, baseado nas páginas de marketing da Apple.</p>
-                    <a class="btn btn-outline-secondary" href="#">Em breve</a>
-                </div>
+            @*Título 02*@
+                    <h1 class="display-4 font-weight-normal">Doação</h1>
+                   @* descrição 02*@
+            <p class="lead font-weight-normal">
+                Primeiramente, a doação de cães e gatos contribui diretamente para o controle populacional desses animais. A reprodução descontrolada pode levar a um aumento do número de animais de rua, resultando em problemas como superlotação de abrigos e falta de recursos para cuidar adequadamente deles. Ao adotar um animal resgatado, você está ajudando a reduzir o número de animais abandonados e oferecendo a eles uma vida melhor.
+
+                Além disso, a doação de cães e gatos promove o amor e a compaixão pelos animais. Ao adotar um animal de estimação, você está proporcionando a ele um lar amoroso e cuidados adequados. Essa atitude não apenas beneficia o animal, mas também traz inúmeros benefícios emocionais e terapêuticos para o adotante. Estudos mostram que ter um animal de estimação pode reduzir o estresse, a ansiedade e até mesmo melhorar a saúde física.
+            </p>
+                    @*botão 02*@
+            <a class="btn btn-outline-secondary" href="#">Doe um pet</a>
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>
         @*divisor de linhas*@
         <hr class="featurette-divider">
             <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-                <div class="col-md-5 p-lg-5 mx-auto my-5">
-                    <h1 class="display-4 font-weight-normal">Título legal</h1>
-                    <p class="lead font-weight-normal">E uma descrição engraçadinha, para continuar. Alavanque seus esforços em marketing com esse exemplo, baseado nas páginas de marketing da Apple.</p>
-                    <a class="btn btn-outline-secondary" href="#">Em breve</a>
-                </div>
+                @*Título 03*@
+                    <h1 class="display-4 font-weight-normal">Pets Perdidos</h1>
+                    @*descrição 03*@
+            <p class="lead font-weight-normal">
+                Cães e gatos perdidos são uma triste realidade que afeta muitos lares e comunidades. Esses animais, que tanto enriquecem nossas vidas com amor e companhia, muitas vezes acabam se perdendo e enfrentando uma situação assustadora e confusa.
+
+                Quando um cão ou gato se perde, sua segurança e bem-estar são colocados em risco. Eles podem se encontrar em ambientes desconhecidos, longe de sua família e dos lugares que conhecem como lar. Isso pode causar medo, estresse e até mesmo colocar suas vidas em perigo, especialmente quando estão sujeitos a condições adversas ou a encontros com outros animais ou veículos.
+            </p>
+                    @*botão 03*@
+                    <a class="btn btn-outline-secondary" href="#">Perdidos: Viu algum deles por aí?</a>
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>
@@ -128,7 +140,6 @@
                                 <a href="#">Continue lendo</a>
                             </div>
                             <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Thumbnail [200x250]" style="width: 200px; height: 250px;" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22200%22%20height%3D%22250%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20250%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1889cb1c269%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A13pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1889cb1c269%22%3E%3Crect%20width%3D%22200%22%20height%3D%22250%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%2256.1953125%22%20y%3D%22131%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true">
-
                         </div>
                     </div>
             @*divisor de linhas*@
