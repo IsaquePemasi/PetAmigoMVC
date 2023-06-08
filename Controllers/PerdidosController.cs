@@ -36,7 +36,7 @@ namespace PetAmigoMVC.Controllers
         {
             return View();
         }
-        public IActionResult Zeka()
+        public IActionResult Zeca()
         {
             return View();
         }
