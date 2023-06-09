@@ -160,4 +160,47 @@
             <hr class="featurette-divider">
         </footer>
 </main>
+@*Gráfico*@
+<body cz-shortcut-listen="true">
+    @*Título*@
+         <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
 
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                <h1 class="h2">Países com mais cães no mundo</h1>
+                </div>
+                <canvas class="my-4 w-100 chartjs-render-monitor" id="myChart" width="1088" height="458" style="display: block; width: 544px; height: 229px;"></canvas>             
+            </main>
+    <!-- Gráficos -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+    <script>
+        var ctx = document.getElementById("myChart");
+        var myChart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: ["Índia", "Filipinas", "Japão", "Russia", "China", "Brasil", "Estados Unidos"],
+            datasets: [{
+                    data: [10200000, 11600000, 12000000, 15000000, 27400000, 35700000, 75800000],
+              lineTension: 0,
+              backgroundColor: 'transparent',
+              borderColor: '#007bff',
+              borderWidth: 4,
+              pointBackgroundColor: '#007bff'
+            }]
+          },
+          options: {
+            scales: {
+              yAxes: [{
+                ticks: {
+                  beginAtZero: false
+                }
+              }]
+            },
+            legend: {
+              display: false,
+            }
+          }
+        });
+    </script>
+</body>
+@*divisor de linhas*@
+<hr class="featurette-divider">
