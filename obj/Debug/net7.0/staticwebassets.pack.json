@@ -125,6 +125,10 @@
       "PackagePath": "staticwebassets\\images\\proxy-image.webp"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\savio-e-maria-isis.webp",
+      "PackagePath": "staticwebassets\\images\\savio-e-maria-isis.webp"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
