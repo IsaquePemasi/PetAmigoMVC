@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kZiUUHr1UMhmWG0iS0V4DoxZCV/TD+d/PupbFDhXIfE=",
+  "Hash": "rHP3nog7XNhRJlWPjvPsMXlathbenuHZX1TlcxzA4wU=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -406,6 +406,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\59930.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\carreira-pet-licenca.jpg",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/carreira-pet-licenca.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\carreira-pet-licenca.jpg"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dh-hero-mobile.webp",

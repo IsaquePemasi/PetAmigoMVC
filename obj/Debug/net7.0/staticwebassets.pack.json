@@ -89,6 +89,10 @@
       "PackagePath": "staticwebassets\\images\\59930.jpg"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\carreira-pet-licenca.jpg",
+      "PackagePath": "staticwebassets\\images\\carreira-pet-licenca.jpg"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dh-hero-mobile.webp",
       "PackagePath": "staticwebassets\\images\\dh-hero-mobile.webp"
     },
