@@ -1,4 +1,4 @@
-﻿@model PetAmigoMVC.Doacao
+﻿@model PetAmigoMVC.Models.Doacao
 
 @{
     ViewData["Title"] = "Edit";
@@ -70,5 +70,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

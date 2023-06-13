@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace PetAmigoMVC;
+namespace PetAmigoMVC.Models;
 
-public partial class Doacao
+public class Doacao
 {
     [Key]
     public int Id { get; set; }

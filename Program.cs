@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Infrastructure;
+using PetAmigoMVC.Data;
 
 namespace PetAmigoMVC
 {
@@ -10,12 +10,17 @@ namespace PetAmigoMVC
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddDbContext<PetAmigoContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Conn"));
+            }
+         );
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
 
-//            builder.Services.AddDbContext<PetAmigoContext>(options =>
-//options.UseSqlServer(connectionString));
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -41,9 +46,5 @@ namespace PetAmigoMVC
 
         }
 
-        private static void connectionString(SqlServerDbContextOptionsBuilder builder)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

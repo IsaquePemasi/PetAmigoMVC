@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using PetAmigoMVC;
+using PetAmigoMVC.Data;
+using PetAmigoMVC.Models;
 
 namespace PetAmigoMVC.Controllers
 {
@@ -21,9 +22,9 @@ namespace PetAmigoMVC.Controllers
         // GET: Doacaos
         public async Task<IActionResult> Index()
         {
-              return _context.Doacaos != null ? 
-                          View(await _context.Doacaos.ToListAsync()) :
-                          Problem("Entity set 'PetAmigoContext.Doacaos'  is null.");
+            return _context.Doacaos != null ?
+                        View(await _context.Doacaos.ToListAsync()) :
+                        Problem("Entity set 'PetAmigoContext.Doacaos'  is null.");
         }
 
         // GET: Doacaos/Details/5
@@ -149,14 +150,14 @@ namespace PetAmigoMVC.Controllers
             {
                 _context.Doacaos.Remove(doacao);
             }
-            
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool DoacaoExists(int id)
         {
-          return (_context.Doacaos?.Any(e => e.Id == id)).GetValueOrDefault();
+            return (_context.Doacaos?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }
