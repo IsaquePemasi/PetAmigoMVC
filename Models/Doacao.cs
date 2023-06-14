@@ -29,8 +29,9 @@ public class Doacao
     [StringLength(80, MinimumLength = 4, ErrorMessage = "O {0}, deve ter um tamanho minimo de {2} caracteres e maximo de {1} caracteres ")]
     public string Tipo { get; set; } = null!;
 
+    [Required(ErrorMessage = "A Foto do animal deve ser informado")]
     [Display(Name = "Foto do animal")]
-    [StringLength(80, MinimumLength = 5, ErrorMessage = "A {0}, deve ter um tamanho minimo de {2} caracteres e maximo de {1} caracteres ")]
+    [StringLength(80, MinimumLength = 8, ErrorMessage = "A {0}, deve ter um tamanho minimo de {2} caracteres e maximo de {1} caracteres ")]
     public string Imgurl { get; set; } = null!;
 
     [Required(ErrorMessage = "A cidade do usuário deve ser informado")]

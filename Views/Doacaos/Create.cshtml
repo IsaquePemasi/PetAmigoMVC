@@ -8,62 +8,61 @@
 
 @*<h1>Doação</h1>*@
 @*<hr />*@
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Nome" class="control-label"></label>
-                <input asp-for="Nome" class="form-control" />
+<form asp-action="Create">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-row">      
+        <div class="col-md-4 mb-3">
+            <label asp-for="Nome" class="control-label" for="validationServer01"></label>
+            <input asp-for="Nome" class="form-control" type="text" class="form-control is-valid" id="validationServer01"  required />
                 <span asp-validation-for="Nome" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Raca" class="control-label"></label>
-                <input asp-for="Raca" class="form-control" />
-                <span asp-validation-for="Raca" class="text-danger"></span>
+        <div class="col-md-4 mb-3">
+            <label asp-for="Raca" class="control-label" for="validationServer02"></label>
+            <input asp-for="Raca" class="form-control" type="text" class="form-control is-valid" id="validationServer02" required />
+            <span asp-validation-for="Raca" class="text-danger" ></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Usuario" class="control-label"></label>
-                <input asp-for="Usuario" class="form-control" />
+        <div class="col-md-4 mb-3">
+            <label asp-for="Usuario" class="control-label" for="validationServerUsername"></label>
+            <input asp-for="Usuario" class="form-control" type="text" class="form-control is-invalid" id="validationServerUsername"  aria-describedby="inputGroupPrepend3" required />
                 <span asp-validation-for="Usuario" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Tipo" class="control-label"></label>
-                <input asp-for="Tipo" class="form-control" />
+        <div class="col-md-4 mb-3">
+            <label asp-for="Tipo" class="control-label" for="validationServer01"></label>
+            <input asp-for="Tipo" class="form-control" type="text" class="form-control is-valid" id="validationServer01" placeholder="Cachorro ou gato?"  required />
                 <span asp-validation-for="Tipo" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Imgurl" class="control-label"></label>
-                <input asp-for="Imgurl" class="form-control" />
+        <div class="col-md-4 mb-3">
+            <label asp-for="Imgurl" class="control-label" for="validationServer05"></label>
+            <input asp-for="Imgurl" class="form-control" type="text" class="form-control is-invalid" id="validationServer05" placeholder="https://" required />
                 <span asp-validation-for="Imgurl" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Cidade" class="control-label"></label>
-                <input asp-for="Cidade" class="form-control" />
+    </div>
+    <div class="form-row">
+        <div class="col-md-6 mb-3">
+            <label asp-for="Cidade" class="control-label" for="validationServer03"></label>
+            <input asp-for="Cidade" class="form-control" type="text" class="form-control is-invalid" id="validationServer03" required />
                 <span asp-validation-for="Cidade" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Estado" class="control-label"></label>
-                <input asp-for="Estado" class="form-control" />
+        <div class="col-md-6 mb-3">
+            <label asp-for="Estado" class="control-label" for="validationServer04"></label>
+            <input asp-for="Estado" class="form-control" type="text" class="form-control is-invalid" id="validationServer04" required />
                 <span asp-validation-for="Estado" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Cep" class="control-label"></label>
-                <input asp-for="Cep" class="form-control" />
+        <div class="col-md-6 mb-3">
+            <label asp-for="Cep" class="control-label" for="validationServer05"></label>
+            <input asp-for="Cep" class="form-control" type="text" class="form-control is-invalid" id="validationServer05"  required />
                 <span asp-validation-for="Cep" class="text-danger"></span>
             </div>
+    </div>
             <div class="form-group">
-                <label asp-for="Descricao" class="control-label"></label>
-                <input asp-for="Descricao" class="form-control" />
+        <label asp-for="Descricao" class="control-label" for="exampleFormControlTextarea1"></label>
+        <input asp-for="Descricao" class="form-control" class="form-control" id="exampleFormControlTextarea1" rows="3" />
                 <span asp-validation-for="Descricao" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Doar" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
-
+            </div>       
+</form>
 @*<div>
     <a asp-action="Index">Volta a lista de adoação</a>
 </div>*@
