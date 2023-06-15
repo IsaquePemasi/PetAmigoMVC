@@ -89,8 +89,24 @@
       "PackagePath": "staticwebassets\\images\\59930.jpg"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\cachorro-com-frio-petlove.jpg",
+      "PackagePath": "staticwebassets\\images\\cachorro-com-frio-petlove.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\cachorro-no-frio-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cachorro-no-frio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\cao-chernobyl-geneticamente-distinto-696x282.jpeg",
+      "PackagePath": "staticwebassets\\images\\cao-chernobyl-geneticamente-distinto-696x282.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\carreira-pet-licenca.jpg",
       "PackagePath": "staticwebassets\\images\\carreira-pet-licenca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\chernocaes.jpg",
+      "PackagePath": "staticwebassets\\images\\chernocaes.jpg"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dh-hero-mobile.webp",
