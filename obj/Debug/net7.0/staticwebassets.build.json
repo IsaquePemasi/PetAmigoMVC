@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2JOimvRxLGiXch677rzfhA12dUL7T0j6JZ69Af66saI=",
+  "Hash": "kPuibBkOb1fQwR9oA/YQcKHsrDsvl//RlbrRokU8leU=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -542,6 +542,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\labradoodle-g97f07522a_640.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\munchkin_539_0_300_square.webp",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/munchkin_539_0_300_square.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\munchkin_539_0_300_square.webp"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (1).jpeg",

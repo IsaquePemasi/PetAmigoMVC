@@ -121,6 +121,10 @@
       "PackagePath": "staticwebassets\\images\\labradoodle-g97f07522a_640.jpg"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\munchkin_539_0_300_square.webp",
+      "PackagePath": "staticwebassets\\images\\munchkin_539_0_300_square.webp"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (1).jpeg",
       "PackagePath": "staticwebassets\\images\\proxy-image (1).jpeg"
     },
