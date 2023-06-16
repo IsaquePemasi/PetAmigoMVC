@@ -12,25 +12,25 @@
 <table class="table">
     <thead>
         <tr>
-            <th>
+            <th style="text-align:center;">
                 @Html.DisplayNameFor(model => model.Nome)
             </th>
-            <th>
+            <th style="text-align:center;">
                 @Html.DisplayNameFor(model => model.Raca)
             </th>
-            <th>
+            <th style="text-align:center;">
                 @Html.DisplayNameFor(model => model.Usuario)
-            </th>
-            <th>
+            </th >
+            <th style="text-align:center;">
                 @Html.DisplayNameFor(model => model.Tipo)
             </th>
-            <th>
+            <th style="text-align:center;">
                 @Html.DisplayNameFor(model => model.Imgurl)
             </th>
-            <th>
+            <th style="text-align:center;">
                 @Html.DisplayNameFor(model => model.Cidade)
             </th>
-            <th>
+            <th style="text-align:center;">
                 @Html.DisplayNameFor(model => model.Estado)
             </th>
 @*            <th>
@@ -46,25 +46,25 @@
         @foreach (var item in Model)
         {
             <tr>
-                <td>
+                <td style="text-align:center;">
                     @Html.DisplayFor(modelItem => item.Nome)
                 </td>
-                <td >
+                <td style="text-align:center;">
                     @Html.DisplayFor(modelItem => item.Raca)
                 </td>
-                <td >
+                <td style="text-align:center;">
                     @Html.DisplayFor(modelItem => item.Usuario)
                 </td>
-                <td >
+                <td style="text-align:center;">
                     @Html.DisplayFor(modelItem => item.Tipo)
                 </td>
-                <td >
-                    <img width="250px" height="150px" src="@Html.DisplayFor(modelItem => item.Imgurl)">
+                <td style="text-align:center;">
+                    <img width="250px" height="150px" style="border-radius:25px;" src="@Html.DisplayFor(modelItem => item.Imgurl)">
                 </td>
-                <td >
+                <td style="text-align:center;">
                     @Html.DisplayFor(modelItem => item.Cidade)
                 </td>
-                <td >
+                <td style="text-align:center;">
                     @Html.DisplayFor(modelItem => item.Estado)
                 </td>
 @*                <td>
