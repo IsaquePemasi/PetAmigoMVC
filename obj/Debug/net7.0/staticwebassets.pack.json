@@ -117,6 +117,18 @@
       "PackagePath": "staticwebassets\\images\\icon.png"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-delete.gif",
+      "PackagePath": "staticwebassets\\images\\icons8-delete.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-edit.gif",
+      "PackagePath": "staticwebassets\\images\\icons8-edit.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-search.gif",
+      "PackagePath": "staticwebassets\\images\\icons8-search.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\labradoodle-g97f07522a_640.jpg",
       "PackagePath": "staticwebassets\\images\\labradoodle-g97f07522a_640.jpg"
     },

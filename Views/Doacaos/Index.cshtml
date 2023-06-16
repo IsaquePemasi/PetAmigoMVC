@@ -74,9 +74,9 @@
                     @Html.DisplayFor(modelItem => item.Descricao)
                 </td>*@
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> 
-                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> 
-                    <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id"><img src="~/images/icons8-edit.gif" alt="Editar"></a>
+                    <a asp-action="Details" asp-route-id="@item.Id"><img src="~/images/icons8-search.gif" alt="Detalhes"></a>
+                    <a asp-action="Delete" asp-route-id="@item.Id"><img src="~/images/icons8-delete.gif" alt="Deletar"></a>
                 </td>
             </tr>
         }
