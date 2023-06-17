@@ -76,17 +76,23 @@
                 </p>
             
                 @*botão 01*@
-            <a class="btn btn-outline-secondary" class="nav-link" asp-area="" asp-controller="Home" asp-action="Adocao">Adote um Pet</a>
+            <a class="btn btn-outline-secondary" class="nav-link" asp-area="" asp-controller="Doacaos" asp-action="Index">Adote um Pet</a>
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>           
         <div class="col-4">
-            <img src="~/images/beneficios da ração.gif" style="width:350px; height:400px;" />
+                <img src="~/images/delivery ração para pet amarelo e vermelho.png" style="width:350px; height:460px;" />
             </div>
         </div>
         @*divisor de linhas*@
-        <hr class="featurette-divider">    
-            <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light" style="background-image:">
+        <hr class="featurette-divider">   
+        
+        <div class="row">
+            <div class="col-4">
+                
+                <img src="~/images/beneficios da ração.gif" style="width:350px; height:490px;" />
+            </div>             
+            <div class="col-8">
             @*Título 02*@
             <h1 class="display-4 font-weight-normal">Doação</h1>
                    @* descrição 02*@
@@ -97,16 +103,17 @@
                 Além disso, a doação de cães e gatos promove o amor e a compaixão pelos animais. Ao adotar um animal de estimação, você está proporcionando a ele um lar amoroso e cuidados adequados. Essa atitude não apenas beneficia o animal, mas também traz inúmeros benefícios emocionais e terapêuticos para o adotante. Estudos mostram que ter um animal de estimação pode reduzir o estresse, a ansiedade e até mesmo melhorar a saúde física.
             </p>
                     @*botão 02*@
-            <a class="btn btn-outline-secondary" class="nav-link" asp-area="" asp-controller="Home" asp-action="Doacao">Doe um pet</a>
+            <a class="btn btn-outline-secondary" class="nav-link" asp-area="" asp-controller="Doacaos" asp-action="Create">Doe um pet</a>
+            
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>
+        </div>
+        
         @*divisor de linhas*@
         <hr class="featurette-divider">
-        <div style="background-color: blue;">
-
-        </div>
-            <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+        <div class="row">
+        <div class="col-8">
                 @*Título 03*@
             <h1 class="display-4 font-weight-normal">Pets Perdidos</h1>
                     @*descrição 03*@
@@ -120,6 +127,11 @@
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>
+            <div class="col-4">
+                <img src="~/images/Lembrete Pet Shop Amarelo e Verde.png" style="width:350px; height:400px;" />
+            </div>
+        </div>
+
             @*divisor de linhas*@
             <hr class="featurette-divider">
         </body>
