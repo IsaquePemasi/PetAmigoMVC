@@ -13,20 +13,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\102211.jpg",
-      "PackagePath": "staticwebassets\\images\\102211.jpg"
-    },
-    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\1314166.jpg",
       "PackagePath": "staticwebassets\\images\\1314166.jpg"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\260845.jpg",
       "PackagePath": "staticwebassets\\images\\260845.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\277093.jpg",
-      "PackagePath": "staticwebassets\\images\\277093.jpg"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\349083682_1611085656054810_1281210572621562986_n.jpg",
@@ -73,32 +65,24 @@
       "PackagePath": "staticwebassets\\images\\3796912.jpg"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\380977.jpg",
-      "PackagePath": "staticwebassets\\images\\380977.jpg"
-    },
-    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\383280.jpg",
       "PackagePath": "staticwebassets\\images\\383280.jpg"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\51906ab0f849de9c29a7714eaa3bdc1c.jpg",
-      "PackagePath": "staticwebassets\\images\\51906ab0f849de9c29a7714eaa3bdc1c.jpg"
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Gráfico castração_.jpeg",
+      "PackagePath": "staticwebassets\\images\\Gráfico castração_.jpeg"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\59930.jpg",
-      "PackagePath": "staticwebassets\\images\\59930.jpg"
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Lembrete Pet Shop Amarelo e Verde.png",
+      "PackagePath": "staticwebassets\\images\\Lembrete Pet Shop Amarelo e Verde.png"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\beneficios da ração.gif",
+      "PackagePath": "staticwebassets\\images\\beneficios da ração.gif"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\cachorro-com-frio-petlove.jpg",
       "PackagePath": "staticwebassets\\images\\cachorro-com-frio-petlove.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\cachorro-no-frio-2.jpg",
-      "PackagePath": "staticwebassets\\images\\cachorro-no-frio-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\cao-chernobyl-geneticamente-distinto-696x282.jpeg",
-      "PackagePath": "staticwebassets\\images\\cao-chernobyl-geneticamente-distinto-696x282.jpeg"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\carreira-pet-licenca.jpg",
@@ -109,8 +93,12 @@
       "PackagePath": "staticwebassets\\images\\chernocaes.jpg"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dh-hero-mobile.webp",
-      "PackagePath": "staticwebassets\\images\\dh-hero-mobile.webp"
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\delivery ração para pet amarelo e vermelho.png",
+      "PackagePath": "staticwebassets\\images\\delivery ração para pet amarelo e vermelho.png"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dicas para deixar gato tranquilo.gif",
+      "PackagePath": "staticwebassets\\images\\dicas para deixar gato tranquilo.gif"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icon.png",
@@ -133,36 +121,8 @@
       "PackagePath": "staticwebassets\\images\\icons8-search.gif"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\labradoodle-g97f07522a_640.jpg",
-      "PackagePath": "staticwebassets\\images\\labradoodle-g97f07522a_640.jpg"
-    },
-    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\munchkin_539_0_300_square.webp",
       "PackagePath": "staticwebassets\\images\\munchkin_539_0_300_square.webp"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (1).jpeg",
-      "PackagePath": "staticwebassets\\images\\proxy-image (1).jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (2).jpeg",
-      "PackagePath": "staticwebassets\\images\\proxy-image (2).jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (3).jpeg",
-      "PackagePath": "staticwebassets\\images\\proxy-image (3).jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image (4).jpeg",
-      "PackagePath": "staticwebassets\\images\\proxy-image (4).jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image.jpeg",
-      "PackagePath": "staticwebassets\\images\\proxy-image.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\proxy-image.webp",
-      "PackagePath": "staticwebassets\\images\\proxy-image.webp"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\savio-e-maria-isis.webp",
