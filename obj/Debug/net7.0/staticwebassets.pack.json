@@ -69,6 +69,10 @@
       "PackagePath": "staticwebassets\\images\\383280.jpg"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Cute_Pet_Dogs_Corgi_Photography_HD_Wallpaper_1366x768.jpg",
+      "PackagePath": "staticwebassets\\images\\Cute_Pet_Dogs_Corgi_Photography_HD_Wallpaper_1366x768.jpg"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Gráfico castração_.jpeg",
       "PackagePath": "staticwebassets\\images\\Gráfico castração_.jpeg"
     },
@@ -119,6 +123,10 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-search.gif",
       "PackagePath": "staticwebassets\\images\\icons8-search.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\istockphoto-1417882544-170667a.webp",
+      "PackagePath": "staticwebassets\\images\\istockphoto-1417882544-170667a.webp"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\munchkin_539_0_300_square.webp",

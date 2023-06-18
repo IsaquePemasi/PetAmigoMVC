@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q4ah2op1BPPtfAAAR9SutzME5kpk3oRRKfdpeTMpVxM=",
+  "Hash": "FZSnml8ZbSnZWHwjyKxuzJtZgvv78ZFFmNwC0Sq2mUA=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -391,6 +391,23 @@
       "OriginalItemSpec": "wwwroot\\images\\chernocaes.jpg"
     },
     {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Cute_Pet_Dogs_Corgi_Photography_HD_Wallpaper_1366x768.jpg",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/Cute_Pet_Dogs_Corgi_Photography_HD_Wallpaper_1366x768.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Cute_Pet_Dogs_Corgi_Photography_HD_Wallpaper_1366x768.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\delivery ração para pet amarelo e vermelho.png",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -525,6 +542,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons8-search.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\istockphoto-1417882544-170667a.webp",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/istockphoto-1417882544-170667a.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\istockphoto-1417882544-170667a.webp"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Lembrete Pet Shop Amarelo e Verde.png",
