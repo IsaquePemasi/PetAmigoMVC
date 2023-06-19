@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PetAmigoMVC.Data;
 
@@ -15,6 +16,7 @@ namespace PetAmigoMVC
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Conn"));
             }
          );
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<PetAmigoContext>();
 
             builder.Services.AddControllersWithViews();
 
@@ -35,6 +37,7 @@ namespace PetAmigoMVC
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

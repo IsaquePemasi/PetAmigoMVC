@@ -829,3 +829,9 @@ C:\Users\Isaque\Desktop\PetAmigoMVC-master\obj\Debug\net7.0\refint\PetAmigoMVC.d
 C:\Users\Isaque\Desktop\PetAmigoMVC-master\obj\Debug\net7.0\PetAmigoMVC.pdb
 C:\Users\Isaque\Desktop\PetAmigoMVC-master\obj\Debug\net7.0\PetAmigoMVC.genruntimeconfig.cache
 C:\Users\Isaque\Desktop\PetAmigoMVC-master\obj\Debug\net7.0\ref\PetAmigoMVC.dll
+C:\Users\Isaque\Desktop\PetAmigoMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Isaque\Desktop\PetAmigoMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Isaque\Desktop\PetAmigoMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Isaque\Desktop\PetAmigoMVC\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Isaque\Desktop\PetAmigoMVC\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Isaque\Desktop\PetAmigoMVC\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
