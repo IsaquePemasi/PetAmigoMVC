@@ -1,6 +1,8 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PetAmigoMVC.Data;
+using PetAmigoMVC.Services;
 
 namespace PetAmigoMVC
 {
@@ -19,6 +21,7 @@ namespace PetAmigoMVC
             builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<PetAmigoContext>();
 
             builder.Services.AddControllersWithViews();
+
 
             var app = builder.Build();
 
