@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UtK2IAIdoPe4ZAK8G+XvvjMwtnyazEW1PCH9G8glwI8=",
+  "Hash": "4baVeQVSninzEoKaGHnXKu2jdjOaxoBUA/cspcW9lgU=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -323,12 +323,12 @@
       "OriginalItemSpec": "wwwroot\\images\\383280.jpg"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\beneficios da ração.gif",
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Adote um gatinho fotos de gatos estilo minimalista e simples apresentação de slides bege.gif",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
       "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/beneficios da ração.gif",
+      "RelativePath": "images/Adote um gatinho fotos de gatos estilo minimalista e simples apresentação de slides bege.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,7 +337,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\beneficios da ração.gif"
+      "OriginalItemSpec": "wwwroot\\images\\Adote um gatinho fotos de gatos estilo minimalista e simples apresentação de slides bege.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Apresentação motivos para adotar um gato divertida verde e roxo.gif",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/Apresentação motivos para adotar um gato divertida verde e roxo.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Apresentação motivos para adotar um gato divertida verde e roxo.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\beneficios da ração2.gif",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/beneficios da ração2.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\beneficios da ração2.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\cachorro-com-frio-petlove.jpg",
@@ -425,12 +459,12 @@
       "OriginalItemSpec": "wwwroot\\images\\delivery ração para pet amarelo e vermelho.png"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dicas para deixar gato tranquilo.gif",
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dicas para deixar gato tranquilo2.gif",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
       "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/dicas para deixar gato tranquilo.gif",
+      "RelativePath": "images/dicas para deixar gato tranquilo2.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,7 +473,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dicas para deixar gato tranquilo.gif"
+      "OriginalItemSpec": "wwwroot\\images\\dicas para deixar gato tranquilo2.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Gráfico castração_.jpeg",
@@ -544,6 +578,23 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-search.gif"
     },
     {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Instagram Post Lembrete Pet Shop Amarelo e Verde.gif",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/Instagram Post Lembrete Pet Shop Amarelo e Verde.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Instagram Post Lembrete Pet Shop Amarelo e Verde.gif"
+    },
+    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\istockphoto-1417882544-170667a.webp",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -627,6 +678,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\savio-e-maria-isis.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Story instagram delivery ração para pet amarelo e vermelho.gif",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/Story instagram delivery ração para pet amarelo e vermelho.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Story instagram delivery ração para pet amarelo e vermelho.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\whatsapp-logo-4-1.png",
