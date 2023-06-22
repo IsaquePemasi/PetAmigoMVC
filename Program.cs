@@ -22,10 +22,7 @@ namespace PetAmigoMVC
 
             builder.Services.AddControllersWithViews();
 
-
             var app = builder.Build();
-
-
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -48,9 +45,6 @@ namespace PetAmigoMVC
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
-
-
         }
-
     }
 }

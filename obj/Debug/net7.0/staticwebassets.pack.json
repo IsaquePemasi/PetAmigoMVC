@@ -81,16 +81,20 @@
       "PackagePath": "staticwebassets\\images\\Cute_Pet_Dogs_Corgi_Photography_HD_Wallpaper_1366x768.jpg"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Design sem nome perdidos 2.gif",
+      "PackagePath": "staticwebassets\\images\\Design sem nome perdidos 2.gif"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Design sem nome perdidos.gif",
+      "PackagePath": "staticwebassets\\images\\Design sem nome perdidos.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Gráfico castração_.jpeg",
       "PackagePath": "staticwebassets\\images\\Gráfico castração_.jpeg"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Instagram Post Lembrete Pet Shop Amarelo e Verde.gif",
       "PackagePath": "staticwebassets\\images\\Instagram Post Lembrete Pet Shop Amarelo e Verde.gif"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Lembrete Pet Shop Amarelo e Verde.png",
-      "PackagePath": "staticwebassets\\images\\Lembrete Pet Shop Amarelo e Verde.png"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Story instagram delivery ração para pet amarelo e vermelho.gif",
@@ -111,10 +115,6 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\chernocaes.jpg",
       "PackagePath": "staticwebassets\\images\\chernocaes.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\delivery ração para pet amarelo e vermelho.png",
-      "PackagePath": "staticwebassets\\images\\delivery ração para pet amarelo e vermelho.png"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\dicas para deixar gato tranquilo2.gif",
