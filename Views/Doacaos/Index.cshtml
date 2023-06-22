@@ -9,7 +9,7 @@
 @*<p>
     <a asp-action="Create">Doar Pet</a>
 </p>*@
-<table class="table">
+<table id="myTable" class="table">
     <thead>
         <tr>
             <th style="text-align:center;">
@@ -82,7 +82,17 @@
         }
 
     </tbody>
-
 </table>
+@section scripts{
+    @*Datatables*@
+    <script>
+        var table = new DataTable('#myTable', {
+            language: {
+                url: '//cdn.datatables.net/plug-ins/1.13.4/i18n/pt-BR.json',
+            },
+        });
+    </script>
+}
+
 @*divisor de linhas*@
 <hr class="featurette-divider">
