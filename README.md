@@ -24,6 +24,9 @@ Underscore.js
 jQuery UI
 1.12.1
 
+datatables
+1.13.4
+
 core-js
 2.6.12
 
