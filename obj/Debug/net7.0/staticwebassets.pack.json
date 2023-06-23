@@ -5,6 +5,90 @@
       "PackagePath": "staticwebassets\\PetAmigoMVC.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\.babelrc",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\.babelrc"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\.editorconfig",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\.eslintrc",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\.gitignore",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\.nvmrc",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\.nvmrc"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\.prettierrc",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\.prettierrc"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\.travis.yml",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\LICENSE",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\README.md",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\lib\\darkmode-js.js",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\lib\\darkmode-js.js"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\lib\\darkmode-js.min.js",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\lib\\darkmode-js.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\package-lock.json",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\package.json",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\src\\darkmode.js",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\src\\darkmode.js"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\src\\index.js",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\test\\index.html",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\test\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\test\\index.spec.js",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\test\\index.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\test\\mocha.opts",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\test\\mocha.opts"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\Darkmode.js\\Darkmode.js\\webpack.config.js",
+      "PackagePath": "staticwebassets\\Darkmode.js\\Darkmode.js\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\css\\dark.css",
+      "PackagePath": "staticwebassets\\css\\dark.css"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -399,6 +483,34 @@
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\light-switch-bootstrap\\light-switch-bootstrap-main\\.gitignore",
+      "PackagePath": "staticwebassets\\light-switch-bootstrap\\light-switch-bootstrap-main\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\light-switch-bootstrap\\light-switch-bootstrap-main\\LICENSE",
+      "PackagePath": "staticwebassets\\light-switch-bootstrap\\light-switch-bootstrap-main"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\light-switch-bootstrap\\light-switch-bootstrap-main\\README.md",
+      "PackagePath": "staticwebassets\\light-switch-bootstrap\\light-switch-bootstrap-main\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\light-switch-bootstrap\\light-switch-bootstrap-main\\custom.css",
+      "PackagePath": "staticwebassets\\light-switch-bootstrap\\light-switch-bootstrap-main\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\light-switch-bootstrap\\light-switch-bootstrap-main\\index.html",
+      "PackagePath": "staticwebassets\\light-switch-bootstrap\\light-switch-bootstrap-main\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\light-switch-bootstrap\\light-switch-bootstrap-main\\package.json",
+      "PackagePath": "staticwebassets\\light-switch-bootstrap\\light-switch-bootstrap-main\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\light-switch-bootstrap\\light-switch-bootstrap-main\\switch.js",
+      "PackagePath": "staticwebassets\\light-switch-bootstrap\\light-switch-bootstrap-main\\switch.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PetAmigoMVC.Microsoft.AspNetCore.StaticWebAssets.props",
