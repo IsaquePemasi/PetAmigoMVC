@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\PetAmigoMVC.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\css\\dark.css",
-      "PackagePath": "staticwebassets\\css\\dark.css"
-    },
-    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -133,32 +129,16 @@
       "PackagePath": "staticwebassets\\images\\icons8-delete-64.png"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-delete.gif",
-      "PackagePath": "staticwebassets\\images\\icons8-delete.gif"
-    },
-    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-edit-64.png",
       "PackagePath": "staticwebassets\\images\\icons8-edit-64.png"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-edit.gif",
-      "PackagePath": "staticwebassets\\images\\icons8-edit.gif"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-print-64.png",
       "PackagePath": "staticwebassets\\images\\icons8-print-64.png"
     },
     {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-print.gif",
-      "PackagePath": "staticwebassets\\images\\icons8-print.gif"
-    },
-    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-search-64.png",
       "PackagePath": "staticwebassets\\images\\icons8-search-64.png"
-    },
-    {
-      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-search.gif",
-      "PackagePath": "staticwebassets\\images\\icons8-search.gif"
     },
     {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\istockphoto-1417882544-170667a.webp",

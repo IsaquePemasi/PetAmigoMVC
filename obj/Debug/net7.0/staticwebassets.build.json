@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GAXZ4kFDXHkBFsjmc+aG4URgei2N9y0zChWyhlT2aXQ=",
+  "Hash": "9ZHylQglU/Ggp+zUX/XOgqv2tWUkqx8SrrnRuknIGHI=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PetAmigoMVC.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\css\\dark.css",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "css/dark.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\dark.css"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\css\\site.css",
@@ -544,23 +527,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icon.png"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-delete.gif",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/icons8-delete.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons8-delete.gif"
-    },
-    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-delete-64.png",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -576,23 +542,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons8-delete-64.png"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-edit.gif",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/icons8-edit.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons8-edit.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-edit-64.png",
@@ -612,23 +561,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-edit-64.png"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-print.gif",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/icons8-print.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons8-print.gif"
-    },
-    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-print-64.png",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -644,23 +576,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons8-print-64.png"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-search.gif",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/icons8-search.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons8-search.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-search-64.png",
