@@ -133,6 +133,10 @@
       "PackagePath": "staticwebassets\\images\\icons8-edit.gif"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-print.gif",
+      "PackagePath": "staticwebassets\\images\\icons8-print.gif"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icons8-save.gif",
       "PackagePath": "staticwebassets\\images\\icons8-save.gif"
     },
