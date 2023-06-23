@@ -21,6 +21,8 @@ MathJax
 
 Underscore.js
 
+switch.js
+
 jQuery UI
 1.12.1
 
