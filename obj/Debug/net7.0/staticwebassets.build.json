@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pGsA+Q+MVTK/zQgy3ombFAymag9RAmmUU7/lZLvk4dc=",
+  "Hash": "5X69ws4UxvMOYRR0IHvtOYhcB2yvxLDWmOufnqIPfwI=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -527,23 +527,6 @@
       "OriginalItemSpec": "wwwroot\\images\\Hora do banho cachorro colorido e divertido amarelo Post do instagram.gif"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Hora do banho cachorro colorido e divertido amarelo Post do instagram.jpg",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/Hora do banho cachorro colorido e divertido amarelo Post do instagram.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Hora do banho cachorro colorido e divertido amarelo Post do instagram.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\icon.png",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -695,23 +678,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás.gif"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás.jpg",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/Panfleto promoção pet shop ração e cachorro branco, preto e lilás.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás.jpg"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\pare.png",

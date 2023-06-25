@@ -19,6 +19,8 @@ MathJax
 
 <h2>Biblioteca JavaScript</h2>
 
+ScrollReveal.js
+
 Underscore.js
 
 switch.js

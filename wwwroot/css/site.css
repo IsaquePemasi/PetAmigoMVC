@@ -86,3 +86,6 @@ body {
     align-items: center;
 
 }
+.scrollReveal{
+    visibility: hidden;
+}
