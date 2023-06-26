@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5X69ws4UxvMOYRR0IHvtOYhcB2yvxLDWmOufnqIPfwI=",
+  "Hash": "zr5WrgOkyVdGHLx3ucbEH/rCV7BmM+wW42J1E4e5/BU=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -663,12 +663,12 @@
       "OriginalItemSpec": "wwwroot\\images\\munchkin_539_0_300_square.webp"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás.gif",
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás2.gif",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
       "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/Panfleto promoção pet shop ração e cachorro branco, preto e lilás.gif",
+      "RelativePath": "images/Panfleto promoção pet shop ração e cachorro branco, preto e lilás2.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,7 +677,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás.gif"
+      "OriginalItemSpec": "wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás2.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás3.gif",
+      "SourceId": "PetAmigoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
+      "BasePath": "_content/PetAmigoMVC",
+      "RelativePath": "images/Panfleto promoção pet shop ração e cachorro branco, preto e lilás3.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás3.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\pare.png",
