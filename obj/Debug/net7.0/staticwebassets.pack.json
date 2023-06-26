@@ -165,6 +165,14 @@
       "PackagePath": "staticwebassets\\images\\pare.png"
     },
     {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\qr-code-21338.png",
+      "PackagePath": "staticwebassets\\images\\qr-code-21338.png"
+    },
+    {
+      "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\racao-origens-boa-capa.png",
+      "PackagePath": "staticwebassets\\images\\racao-origens-boa-capa.png"
+    },
+    {
       "Id": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\savio-e-maria-isis.webp",
       "PackagePath": "staticwebassets\\images\\savio-e-maria-isis.webp"
     },
