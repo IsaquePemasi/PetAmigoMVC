@@ -49,16 +49,19 @@
         </main>
     </div>
 
-    <footer class="container">
-        <p style="text-align:center;"><a asp-area="" asp-controller="Home" asp-action="Parceiros">Parceiros</a><a asp-area="" asp-controller="Home" asp-action="PerguntasFrequentes">Perguntas frequentes</a></p>
+    <footer class="container" >
         <p class="float-right"><a href="#" class="btn btn-sm btn-outline-secondary">Voltar ao topo</a></p>
-        <p>
-            © PetAmigo - 2023 <br>👨‍💻 Feito por <a href="https://isaquepemasi.vercel.app/">
-                Isaque P.
-                Marques
-            </a>
-        </p>
+        <div style="display:flex;">
+            <p>
+                © PetAmigo - 2023 <br>👨‍💻 Feito por <a href="https://isaquepemasi.vercel.app/">
+                    Isaque P.
+                    Marques
+                </a>
+                <div style="margin-left:90px;"><a asp-area="" asp-controller="Home" asp-action="Parceiros">Parceiros</a></div><div style="margin-left:90px;"><a asp-area="" asp-controller="Home" asp-action="PerguntasFrequentes">Perguntas frequentes</a></div>
+            </p>
+        </div>
     </footer>
+
     <!-- JavaScript (Opcional) -->
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
