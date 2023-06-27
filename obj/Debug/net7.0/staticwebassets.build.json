@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q9yOVbC6jvuH9L85WgSlRGtiA5W57M5Q1IKcTIh4ut4=",
+  "Hash": "RG22I9GYIgy1Gi+01KmMrMX8IS2x0XMquh4YaenyM+s=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -765,12 +765,12 @@
       "OriginalItemSpec": "wwwroot\\images\\savio-e-maria-isis.webp"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\spinvisivel .jpeg",
+      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\spinvisivel.gif",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
       "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/spinvisivel .jpeg",
+      "RelativePath": "images/spinvisivel.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,7 +779,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\spinvisivel .jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\spinvisivel.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\sp-invisivel-futurebrand-1.jpg",
