@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RG22I9GYIgy1Gi+01KmMrMX8IS2x0XMquh4YaenyM+s=",
+  "Hash": "6ZU9yUtrZYu7Zq7JI8ul4cfgpiwGtc3K1Hq+/gN3OjA=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -780,23 +780,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\spinvisivel.gif"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\sp-invisivel-futurebrand-1.jpg",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/sp-invisivel-futurebrand-1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\sp-invisivel-futurebrand-1.jpg"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Story instagram delivery ração para pet amarelo e vermelho.gif",
