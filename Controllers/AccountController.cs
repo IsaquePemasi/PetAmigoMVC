@@ -93,4 +93,8 @@ public class AccountController : Controller
     {
         return View();
     }
+    public IActionResult Esqueci()
+    {
+        return View();
+    }
 }
