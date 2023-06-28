@@ -4,10 +4,6 @@
     ViewData["Title"] = "Doação";
 }
 
-@*<h1>Create</h1>*@
-
-@*<h1>Doação</h1>*@
-@*<hr />*@
 <form asp-action="Create">
     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
     <div class="form-row">      
@@ -36,11 +32,6 @@
             <input asp-for="Imgurl" class="form-control" type="text" class="form-control is-invalid" id="validationServer05" placeholder="https://" required />
                 <span asp-validation-for="Imgurl" class="text-danger"></span>
             </div>
-@*        <div class="col-md-4 mb-3">
-            <label asp-for="Imgurl" class="control-label" for="exampleFormControlFile1"></label>
-            <input asp-for="Imgurl" class="form-control" type="file" class="form-control-file" id="exampleFormControlFile1" placeholder="insira a imagem" required />
-            <span asp-validation-for="Imgurl" class="text-danger"></span>
-        </div>  *@
     </div>
     <div class="form-row">
         <div class="col-md-6 mb-3">
@@ -69,7 +60,6 @@
         <label><a href="https://love.doghero.com.br/racas-de-cachorro/">Raças de cachorro:</a> guia completo das raças   |</label>
         <label><a href="https://www.peritoanimal.com.br/racas-de-gatos.html">Todas as raças de gatos</a> com fotos e características</label>
             </div>
-
 </form>
 @*switch.js*@
 <div class="form-check form-switch ms-auto mt-3 me-3" style="position: fixed;bottom: 0;right: 0;">
