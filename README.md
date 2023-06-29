@@ -9,7 +9,9 @@ Bootstrap
 <h2>API</h2>
 
 ASP.NET Core Identity
-<h2>Gráfico JavaScript </h2>
+
+FormSubmit
+<h2>Grï¿½fico JavaScript </h2>
 
 Chart.js
 2.7.1
