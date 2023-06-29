@@ -11,7 +11,7 @@ Bootstrap
 ASP.NET Core Identity
 
 FormSubmit
-<h2>Gr�fico JavaScript </h2>
+<h2>Gráfico JavaScript </h2>
 
 Chart.js
 2.7.1
