@@ -286,7 +286,7 @@
         </div>
         <div class="col-8">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                <h1 class="h2">Países com mais cães no mundo</h1>
+                <h1 class="h2">Top 10 países com mais cães no mundo</h1>
                 </div>
                 <canvas class="my-4 w-100 chartjs-render-monitor" id="myChart" width="1088" height="458" style="display: block; width: 544px; height: 229px;"></canvas>  
 
@@ -295,7 +295,7 @@
         <main role="main" class="row">
             <div class="col-8">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                    <h1 class="h2">Gráfico castração</h1>
+                    <h1 class="h2">Gráfico de castração</h1>
                 </div>
 
                 <div class="card-body"><canvas id="myBarChart" width="100%" height="40"></canvas></div>
@@ -314,9 +314,9 @@
         var myChart = new Chart(ctx, {
           type: 'line',
           data: {
-            labels: ["Índia", "Filipinas", "Japão", "Rússia", "China", "Brasil", "Estados Unidos"],
+                labels: ["Romênia", "França", "Argentina", "Índia", "Filipinas", "Japão", "Rússia", "China", "Brasil", "Estados Unidos"],
             datasets: [{
-                    data: [10200000, 11600000, 12000000, 15000000, 27400000, 35700000, 75800000],
+                    data: [4100000, 7400000, 9200000, 10200000, 11600000, 12000000, 15000000, 27400000, 35700000, 75800000],
               lineTension: 0,
               backgroundColor: 'transparent',
               borderColor: '#007bff',
@@ -350,7 +350,7 @@
             data: {
                 labels: ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
                 datasets: [{
-                    label: "Revenue",
+                    label: "Qtd. Castração",
                     backgroundColor: "rgba(2,117,216,1)",
                     borderColor: "rgba(2,117,216,1)",
                     data: [52270, 111836, 115149, 116985, 71874, 96683, 89840, 95343, 103844, 103823, 60781, 98616, 102755],
