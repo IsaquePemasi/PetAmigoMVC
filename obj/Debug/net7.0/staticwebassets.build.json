@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jwg2KBtSP6wUcwlhEfZffibiyn8Q8ikDwhKL0Fa0WYw=",
+  "Hash": "vp1DPUP++S/Wm/AndncgxoOX95r3CDxu9etnkDQ90RA=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -306,40 +306,6 @@
       "OriginalItemSpec": "wwwroot\\images\\3796912.jpg"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\383280.jpg",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/383280.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\383280.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Adote um gatinho fotos de gatos estilo minimalista e simples apresentação de slides bege.gif",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/Adote um gatinho fotos de gatos estilo minimalista e simples apresentação de slides bege.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Adote um gatinho fotos de gatos estilo minimalista e simples apresentação de slides bege.gif"
-    },
-    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Apresentação motivos para adotar um gato divertida verde e roxo.gif",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -629,23 +595,6 @@
       "OriginalItemSpec": "wwwroot\\images\\istockphoto-1417882544-170667a.webp"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\munchkin_539_0_300_square.webp",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/munchkin_539_0_300_square.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\munchkin_539_0_300_square.webp"
-    },
-    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Panfleto promoção pet shop ração e cachorro branco, preto e lilás2.gif",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -714,23 +663,6 @@
       "OriginalItemSpec": "wwwroot\\images\\Post para Instagram Campanha de Castração 2.gif"
     },
     {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Post para Instagram Campanha de Castração.gif",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/Post para Instagram Campanha de Castração.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Post para Instagram Campanha de Castração.gif"
-    },
-    {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\qr-code-21338.png",
       "SourceId": "PetAmigoMVC",
       "SourceType": "Discovered",
@@ -746,23 +678,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\qr-code-21338.png"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\racao-origens-boa-capa.png",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/racao-origens-boa-capa.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\racao-origens-boa-capa.png"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\savio-e-maria-isis.webp",
@@ -814,23 +729,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Story instagram delivery ração para pet amarelo e vermelho.gif"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\whatsapp-logo-4-1.png",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/whatsapp-logo-4-1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\whatsapp-logo-4-1.png"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\whatsapp-logo-5.png",
