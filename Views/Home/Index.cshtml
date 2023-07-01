@@ -5,12 +5,12 @@
     <header>
         @*intro animada*@
         <div class="intro">
-            <h1 class="logo-header">
+        <h1 class="logo-header">
                 <span class="logo">Pet</span><span class="logo">Amigo🐶</span>
             </h1>
         </div>
         @*carrousel*@
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" >
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -69,7 +69,7 @@
             @*divisor de linhas*@
             <hr class="featurette-divider">
     </header>
-        <body cz-shortcut-listen="true" >
+        <div cz-shortcut-listen="true" >
         <div class="scrollReveal">
         <div class="row">
             <div class="col-8">
@@ -80,14 +80,14 @@
                     <strong class="inicialDestaqueAzul">
                     Ao adotar um cão ou um gato, estamos oferecendo uma segunda chance a um ser vivo que muitas vezes foi negligenciado, maltratado ou abandonado.</strong> Esses animais merecem um lar amoroso, onde possam receber cuidados adequados, alimentação, abrigo e carinho. A adoção permite que eles sejam integrados a uma família, recebam afeto e se tornem parte ativa de uma comunidade.
                 Além do aspecto emocional, a adoção de animais traz benefícios práticos. Ao optarmos pela adoção em vez da compra, estamos ajudando a reduzir o número de animais abandonados nas ruas e em abrigos. A superpopulação animal é um problema sério, que resulta em sofrimento e morte para muitos animais. Ao adotar, estamos dando uma chance a um animal que, de outra forma, poderia ser sacrificado ou passar toda a sua vida em um ambiente institucional.
-                </p>
-            
+                </p>           
                 @*botão 01*@
             <a class="btn btn-outline-secondary" class="nav-link" asp-area="" asp-controller="Doacaos" asp-action="Index">Adote um Pet</a>
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>           
         <div class="col-4">
+            @*propaganda ração*@
                     <a href="https://www.cobasi.com.br/pesquisa?terms=ra%C3%A7%C3%A3o%20de%20cachorro&p=are&ranking=1&typeclick=1&ac_pos=header" target="_blank"><img src="~/images/Story instagram delivery ração para pet amarelo e vermelho.gif" style="width:350px; height:460px;" alt="Propaganda de ração" /></a>
             </div>
         </div>
@@ -97,6 +97,7 @@
         <div class="scrollReveal">
         <div class="row">
             <div class="col-4">
+                    @*propaganda ração*@
                     <a href="https://www.petz.com.br/busca?q=ra%C3%A7%C3%A3o" target="_blank">
                         <img src="~/images/beneficios da ração2.gif" style="width:350px; height:490px;" alt="propaganda de ração" />
                     </a>
@@ -108,12 +109,10 @@
             <p class="lead font-weight-normal">
                     Primeiramente, a doação de cães e gatos contribui diretamente para o controle populacional desses animais.<strong class="inicialDestaqueAzul">
                     A reprodução descontrolada pode levar a um aumento do número de animais de rua, resultando em problemas como superlotação de abrigos e falta de recursos para cuidar adequadamente deles. </strong> Ao adotar um animal resgatado, você está ajudando a reduzir o número de animais abandonados e oferecendo a eles uma vida melhor.
-
                 Além disso, a doação de cães e gatos promove o amor e a compaixão pelos animais. Ao adotar um animal de estimação, você está proporcionando a ele um lar amoroso e cuidados adequados. Essa atitude não apenas beneficia o animal, mas também traz inúmeros benefícios emocionais e terapêuticos para o adotante. Estudos mostram que ter um animal de estimação pode reduzir o estresse, a ansiedade e até mesmo melhorar a saúde física.
             </p>
                     @*botão 02*@
-            <a class="btn btn-outline-secondary" class="nav-link" asp-area="" asp-controller="Doacaos" asp-action="Create">Doe um pet</a>
-            
+            <a class="btn btn-outline-secondary" class="nav-link" asp-area="" asp-controller="Doacaos" asp-action="Create">Doe um pet</a>           
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>
@@ -137,16 +136,16 @@
                 <div class="product-device shadow-sm d-none d-md-block"></div>
                 <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
             </div>
+                @*propaganda ração*@
             <div class="col-4">
                     <a href="https://www.petlove.com.br/busca?q=ra%C3%A7%C3%A3o" target="_blank"><img src="~/images/Instagram Post Lembrete Pet Shop Amarelo e Verde.gif" style="width:350px; height:400px;" alt="propaganda de ração" /></a>
             </div>
         </div>
         </div>
-
             @*divisor de linhas*@
             <hr class="featurette-divider">
-        </body>
-        <footer cz-shortcut-listen="true">
+        </div>
+        <div cz-shortcut-listen="true">
         <div class="scrollReveal">
                 <div class="row mb-2">
                     <div class="col-md-6" >
@@ -263,36 +262,36 @@
                         <div class="mb-1 text-muted">16 de Junho de 2023</div>
                         <p class="card-text mb-auto" style=" color: black;">
                             @*descrição 06*@
-
                                 <a href="https://revistapegn.globo.com/gestao/noticia/2023/06/brasileiro-fatura-milhoes-com-salao-de-beleza-para-pets-nos-estados-unidos.ghtml" target="_blank">Continue lendo</a>
                     </div>
                     <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Thumbnail [200x250]" style="width: 200px; height: 250px;" src="~/images/Cute_Pet_Dogs_Corgi_Photography_HD_Wallpaper_1366x768.jpg" data-holder-rendered="true" alt="brasilero, fatura milhões com salão">
                 </div>
-            </div>
-            
+            </div>           
             @*divisor de linhas*@
             <hr class="featurette-divider">
-        </footer>
+        </div>
 </main>
-@*Gráfico*@
+@*Gráficos*@
 <body cz-shortcut-listen="true">
     @*Título*@
     <div class="scrollReveal">
     <main role="main" class="row" >
+            @*propaganda ração*@
         <div class="col-4">
                 <a href="https://lojagatamia.com.br/" target="_blank">
                     <img src="~/images/dicas para deixar gato tranquilo2.gif" style="width:350px; height:400px;" alt="propaganda de loja de gatos" />
                 </a>             
         </div>
+        @*Gráfico*@
         <div class="col-8">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
                 <h1 class="h2">Top 10 países com mais cães no mundo</h1>
                 </div>
                 <canvas class="my-4 w-100 chartjs-render-monitor" id="myChart" width="1088" height="458" style="display: block; width: 544px; height: 229px;"></canvas>  
-
                 </div>
-            </main>
-        <main role="main" class="row">
+          </main>
+        <div role="main" class="row">
+            @*Gráfico*@
             <div class="col-8">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
                     <h1 class="h2">Gráfico de castração</h1>
@@ -300,14 +299,15 @@
 
                 <div class="card-body"><canvas id="myBarChart" width="100%" height="40"></canvas></div>
             </div>
+            @*propaganda de castração*@
             <div class="col-4">
                 <a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/saude_e_protecao_ao_animal_domestico/index.php?p=272489" target="_blank">
                     <img src="~/images/Post para Instagram Campanha de Castração 2.gif" style="width:350px; height:400px;" alt="propaganda de castração" />
                 </a>
             </div>
-        </main>
+        </div>
             </div>
-    <!-- Gráficos -->
+    <!-- Gráficos script -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
     <script>
         var ctx = document.getElementById("myChart");
@@ -385,7 +385,6 @@
                 }
             }
         });
-
     </script>
 </body>
 @*divisor de linhas*@
@@ -395,12 +394,10 @@
 </div>
 @*divisor de linhas*@
 <hr class="featurette-divider">
-
 <body cz-shortcut-listen="true">
     <main role="main">
         <div class="scrollReveal">
-        <div class="container">
-            
+        <div class="container">           
             <!-- Exemplo de linha de colunas -->
             <div class="row">
                 <div class="col-md-4">
@@ -440,9 +437,9 @@
                     <p>O recorde mundial para o maior número de <span style="color:deeppink">gatos</span> em um único lar é de mais de 1.000 gatos. Essa incrível coleção pertencia a um homem chamado Lynea Lattanzio, na Califórnia, Estados Unidos.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 00*@
+                    @*Título da curiosidade 06*@
                     <h2>Comunicação vocal</h2>
-                    @*descrição da curiosidade 00*@
+                    @*descrição da curiosidade 06*@
                     <p>Os <span style="color:blue">cães</span> são capazes de produzir uma ampla gama de sons, incluindo latidos, rosnados, uivos e gemidos. Eles usam esses sons para se comunicarem uns com os outros e também para se comunicarem com os humanos.</p>
                 </div>
             </div>
@@ -452,21 +449,21 @@
             <!-- Exemplo de linha de colunas -->
             <div class="row">
                 <div class="col-md-4">
-                    @*Título da curiosidade 06*@
+                    @*Título da curiosidade 07*@
                     <h2>Super ouvidos</h2>
-                    @*descrição da curiosidade 06*@
+                    @*descrição da curiosidade 07*@
                     <p>Os ouvidos dos <span style="color:blue">cães</span> são muito sensíveis. Eles podem ouvir frequências mais altas do que os humanos, o que lhes permite detectar sons que nós não conseguimos perceber. Além disso, eles têm a capacidade de mover suas orelhas em várias direções para melhorar sua audição.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 07*@
+                    @*Título da curiosidade 08*@
                     <h2>Impressões digitais únicas</h2>
-                    @*descrição da curiosidade 07*@
+                    @*descrição da curiosidade 08*@
                     <p>Assim como os seres humanos têm impressões digitais únicas, os <span style="color:blue">cães</span> têm padrões de nariz únicos. Esses padrões podem ser usados para identificar <span style="color:blue">cães</span> individualmente, assim como as impressões digitais são usadas para identificar humanos.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 08*@
+                    @*Título da curiosidade 09*@
                     <h2>100 sons vocais diferentes</h2>
-                    @*descrição da curiosidade 08*@
+                    @*descrição da curiosidade 09*@
                     <p>Os <span style="color:deeppink">gatos</span> têm a capacidade de fazer cerca de 100 sons vocais diferentes, enquanto os <span style="color:blue">cães</span> fazem apenas cerca de 10.</p>
                 </div>
             </div>
@@ -476,21 +473,21 @@
             <!-- Exemplo de linha de colunas -->
             <div class="row">
                 <div class="col-md-4">
-                    @*Título da curiosidade 09*@
+                    @*Título da curiosidade 10*@
                     <h2>Dedos</h2>
-                    @*descrição da curiosidade 09*@
+                    @*descrição da curiosidade 10*@
                     <p>Os <span style="color:deeppink">gatos</span> têm cinco dedos nas patas dianteiras, mas apenas quatro nas patas traseiras.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 10*@
+                    @*Título da curiosidade 11*@
                     <h2>Papilas gustativas</h2>
-                    @*descrição da curiosidade 10*@
+                    @*descrição da curiosidade 11*@
                     <p>Diferentemente dos <span style="color:blue">cães</span>, os <span style="color:deeppink">gatos</span> não têm papilas gustativas para detectar o sabor doce. Isso se deve a uma mutação genética que ocorreu há milhões de anos.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 11*@
+                    @*Título da curiosidade 12*@
                     <h2><span style="color:deeppink">Gatos</span> dormem</h2>
-                    @*descrição da curiosidade 11*@
+                    @*descrição da curiosidade 12*@
                     <p>Os <span style="color:deeppink">gatos</span> dormem em média 12 a 16 horas por dia. Isso ocorre porque eles são animais crepusculares, o que significa que são mais ativos durante o amanhecer e o anoitecer.</p>
                 </div>
             </div>
@@ -500,21 +497,21 @@
             <!-- Exemplo de linha de colunas -->
             <div class="row">
                 <div class="col-md-4">
-                    @*Título da curiosidade 12*@
+                    @*Título da curiosidade 13*@
                     <h2>Bigodes dos <span style="color:deeppink">gatos</span></h2>
-                    @*descrição da curiosidade 12*@
+                    @*descrição da curiosidade 13*@
                     <p>Os bigodes dos <span style="color:deeppink">gatos</span>, também conhecidos como vibrissas, são altamente sensíveis e ajudam os <span style="color:deeppink">gatos</span> a navegar em espaços estreitos, além de detectar mudanças na direção do vento e até mesmo alterações sutis no ambiente.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 13*@
+                    @*Título da curiosidade 14*@
                     <h2>Glândulas odoríferas</h2>
-                    @*descrição da curiosidade 13*@
+                    @*descrição da curiosidade 14*@
                     <p>Os <span style="color:deeppink">gatos</span> têm glândulas odoríferas nas bochechas, na testa, nos lábios, no queixo e na base do rabo. Eles esfregam essas áreas em objetos e pessoas para marcar território e mostrar afeto.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 00*@
+                    @*Título da curiosidade 15*@
                     <h2>Habilidade de saltar</h2>
-                    @*descrição da curiosidade 00*@
+                    @*descrição da curiosidade 15*@
                     <p>Os <span style="color:deeppink">gatos</span> têm a habilidade de saltar até seis vezes a altura do seu próprio corpo, o que os torna excelentes saltadores e escaladores.</p>
                 </div>
             </div>
@@ -524,28 +521,27 @@
             <!-- Exemplo de linha de colunas -->
             <div class="row">
                 <div class="col-md-4">
-                    @*Título da curiosidade 12*@
+                    @*Título da curiosidade 16*@
                     <h2>Órgão de Jacobson</h2>
-                    @*descrição da curiosidade 12*@
+                    @*descrição da curiosidade 16*@
                     <p>Os <span style="color:deeppink">gatos</span> têm um órgão especial chamado órgão de Jacobson, localizado no céu da boca. Esse órgão ajuda a processar e interpretar feromônios, substâncias químicas que desempenham um papel importante na comunicação felina.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 13*@
+                    @*Título da curiosidade 17*@
                     <h2>Digitígrados</h2>
-                    @*descrição da curiosidade 13*@
+                    @*descrição da curiosidade 17*@
                     <p>Diferentemente dos <span style="color:blue">cães</span>, os <span style="color:deeppink">gatos</span> caminham em seus dedos. Eles são digitígrados, o que significa que andam nas pontas dos dedos, com as almofadas das patas servindo como amortecedores.</p>
                 </div>
                 <div class="col-md-4">
-                    @*Título da curiosidade 00*@
+                    @*Título da curiosidade 18*@
                     <h2>Olhos dos <span style="color:deeppink">gatos</span> brilham no escuro?</h2>
-                    @*descrição da curiosidade 00*@
+                    @*descrição da curiosidade 18*@
                     <p>Muitos animais com hábitos de caça noturna (como alguns répteis e diversos mamíferos) possuem uma superfície na retina conhecida como Tapetum Lucidum. Essa parte do olho funciona como um espelho e ajuda esses animais a enxergarem melhor no escuro, pois reflete a luz de volta para a camada fotorreceptora, fornecendo uma segunda oportunidade para a imagem ser captada adequadamente.</p>
                 </div>
             </div>
             <hr>
         </div>        
         </div>
-
     </main>
 </body>
 @*ScrollrevealJS*@
