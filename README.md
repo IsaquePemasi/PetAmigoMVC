@@ -1,4 +1,4 @@
-<h1 align="center">Tecnologias utilizadas </h1>
+<h1 align="center">Tecnologias utilizadas <img src=./wwwroot/images/icon.png> </h1>
 <h2>Framework Web </h2>
 
 Microsoft ASP.NET
