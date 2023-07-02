@@ -93,6 +93,7 @@ public class AccountController : Controller
     {
         return View();
     }
+    //não esta sendo utilizada
     public IActionResult Esqueci()
     {
         return View();

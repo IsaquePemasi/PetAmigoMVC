@@ -6,7 +6,6 @@ using PetAmigoMVC.Models;
 
 namespace PetAmigoMVC.Data;
 
-//public class PetAmigoContext : DbContext
 public class PetAmigoContext : IdentityDbContext
 {
     public PetAmigoContext(DbContextOptions<PetAmigoContext> options)

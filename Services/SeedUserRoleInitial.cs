@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
+//feito para gerenciar as permissões(roles)
 namespace PetAmigoMVC.Services
 {
     public class SeedUserRoleInitial: ISeedUserRoleInitial 

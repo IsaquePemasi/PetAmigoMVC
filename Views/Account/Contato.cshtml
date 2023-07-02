@@ -2,7 +2,9 @@
 @{
     ViewBag.Title = "Contato";
 }
+
 <div class="text-center" cz-shortcut-listen="true">
+    @*metodo para enviar a mensagem de contato, para o email do petamigo*@
     <form method="post" action="https://formsubmit.co/isaquepetamigo@gmail.com">
         <div asp-validation-summary="All" class="text-danger"></div>
         <img class="mb-4" src="~/images/icon.png" alt="" width="72" height="72" alt="logo petamigo">
@@ -17,6 +19,7 @@
             <textarea cols="100" rows="10" name="message" placeholder="Digite sua mensagem" required></textarea>
         </div>
         <button type="submit" class="btn btn-primary mt-3">Enviar</button>
+       @*inputs do formsubmit, para enviar a mensagem para o e mail*@
         <input type="hidden" name="_subject" value="Novo contato!">
         <input type="text" name="_honey" style="display:none">
         <input type="hidden" name="_captcha" value="false">

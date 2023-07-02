@@ -24,12 +24,15 @@ body {
     color: black;
     background-color: white;
 }
+
 .inicialDestaqueAzul {
     color: #006FE6;
 }
+
 .descriçãoNoticia {
     color: black;
 }
+
 .messages {
     height: 400px;
     width: 200%;
@@ -68,9 +71,9 @@ body {
     background-color: lightgray;
 }
 
-    .textMessage input:focus {
+.textMessage input:focus {
         outline: none;
-    }
+}
 
 .textMessage button {
     width: 200%;
@@ -80,15 +83,18 @@ body {
     border: none;
     border-radius: 0 0 20px 20px;
 }
+
 .containe {
     display: flex;
     justify-content: center;
     align-items: center;
 
 }
+
 .scrollReveal{
     visibility: hidden;
 }
+
 /*splash screen*/
 .intro{
     position:fixed;
@@ -100,6 +106,7 @@ body {
     background-color:orangered;
     transition:1s;
 }
+
 .logo-header{
     position:absolute;
     top:40%;
@@ -107,6 +114,7 @@ body {
     transform:translate(-50%,-50%);
     color:#ffffff;
 }
+
 .logo {
     position: relative;
     display: inline-block;
@@ -114,11 +122,13 @@ body {
     opacity: 0;
     font-size: 150px;
 }
+
 .logo.active{
     bottom:0;
     opacity:1;
     transition:ease-in-out 0.5s;
 }
+
 .logo.fade{
     bottom:150px;
     opacity:0;

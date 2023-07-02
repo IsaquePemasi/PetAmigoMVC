@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vp1DPUP++S/Wm/AndncgxoOX95r3CDxu9etnkDQ90RA=",
+  "Hash": "10v+/v3K78fw9C0EKz4IIOjrHaFG0jTxJaObqjQi9Bs=",
   "Source": "PetAmigoMVC",
   "BasePath": "_content/PetAmigoMVC",
   "Mode": "Default",
@@ -304,23 +304,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\3796912.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\Apresentação motivos para adotar um gato divertida verde e roxo.gif",
-      "SourceId": "PetAmigoMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\",
-      "BasePath": "_content/PetAmigoMVC",
-      "RelativePath": "images/Apresentação motivos para adotar um gato divertida verde e roxo.gif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Apresentação motivos para adotar um gato divertida verde e roxo.gif"
     },
     {
       "Identity": "C:\\Users\\Isaque\\Desktop\\PetAmigoMVC\\wwwroot\\images\\beneficios da ração2.gif",
