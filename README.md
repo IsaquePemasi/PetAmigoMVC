@@ -1,4 +1,4 @@
-<h1 align="center">PetAmigo <img src=./wwwroot/images/icon.png style="width:50px;height50px;"> </h1>
+<h1 align="center"><img src=./wwwroot/images/icon.png style="width:50px;height50px;"> PetAmigo  </h1>
 <h2 align="center">Tecnologias utilizadas</h2>
 <h2>Framework Web </h2>
 
