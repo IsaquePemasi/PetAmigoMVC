@@ -1,4 +1,5 @@
-<h1 align="center">Tecnologias utilizadas <img src=./wwwroot/images/icon.png style="width:10px;height10px;"> </h1>
+<h1 align="center">PetAmigo <img src=./wwwroot/images/icon.png style="width:50px;height50px;"> </h1>
+<h2 align="center">Tecnologias utilizadas</h2>
 <h2>Framework Web </h2>
 
 Microsoft ASP.NET
