@@ -78,5 +78,5 @@ Babel
 
 CodeMirror
 5.56.0
-<h2>Autores</h2>
-<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115></a>
+<h2 align="center">Autores</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
