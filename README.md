@@ -1,4 +1,6 @@
 <h1 align="center"><img src=./wwwroot/images/icon.png style="width:50px;height50px;"> PetAmigo  </h1>
+<p>Site de adoção, doação e localização de pets perdidos, voltado para causas sociais (causa animal e combate a pobreza), com o dinheiro arrecadado sendo doado para uma ONG de combate a pobreza.</p>
+<p>Link - https://www.youtube.com/watch?v=n0Ydb0JtEdY</p>
 <h2 align="center">Tecnologias utilizadas</h2>
 <h2>Framework Web </h2>
 
@@ -76,3 +78,6 @@ Babel
 
 CodeMirror
 5.56.0
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: |
