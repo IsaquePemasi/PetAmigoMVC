@@ -1,5 +1,5 @@
 <h1 align="center"> PetAmigo <img src=./wwwroot/images/icon.png style="width:50px;height50px;"> </h1>
-<p>Site de adoção, doação e localização de pets perdidos, voltado para causas sociais (causa animal e combate a pobreza), com o dinheiro arrecadado sendo doado para uma ONG de combate a pobreza.</p>
+<p>Site de adoção, doação e localização de pets perdidos, voltado para causas sociais (causa animal e combate à pobreza), com o dinheiro arrecadado sendo doado para uma ONG de combate à pobreza.</p>
 <p>Link - https://www.youtube.com/watch?v=n0Ydb0JtEdY</p>
 <h2 align="center">Tecnologias utilizadas</h2>
 <h2>Framework Web </h2>
